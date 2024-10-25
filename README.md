@@ -1,6 +1,6 @@
 # Where we’re going, we don’t need (negative) labels
 
-This repository collects the code, paper, and supporting materials for my CAMLIS 2024 poster.
+This repository collects the code, paper, and supporting materials for David J. Elkind's CAMLIS 2024 poster.
 
 # Abstract
 
